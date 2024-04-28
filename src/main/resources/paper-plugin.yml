@@ -1,0 +1,10 @@
+name: Fox
+version: 1.0.0
+main: net.uniquepixels.fox.Fox
+api-version: "1.20"
+bootstrapper: net.uniquepixels.fox.plugin.PluginBootstrap
+loader: net.uniquepixels.fox.plugin.PluginLoader
+dependencies:
+  bootstrap:
+
+  server:
